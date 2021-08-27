@@ -703,6 +703,9 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 h2 {
@@ -776,7 +779,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
@@ -1053,3 +1056,25 @@ h4 {
     font-size: 15px;
     font-style: italic;
 }
+ul{
+    width: 100px;
+    margin: auto;
+    padding: 25px;
+    padding-right: 150px;
+}
+#bloc-6{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding: 0;
+}
+#bloc-7{
+    display: flex;
+    justify-content: center;
+}
+#form_1{
+    display: grid;
+    justify-content: center;
+    gap: 10px;
+}
+
