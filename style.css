@@ -1046,5 +1046,9 @@ h4 {
 /* ------------------ */
 
 .col-sm-12{
-    
+    text-align: center;
+}
+.italic{
+
+    font-style: italic;
 }
