@@ -640,9 +640,7 @@ a[data-lightbox]:hover img {
 }
 
 h1,
-h2,
 h3,
-h4,
 h5,
 h6,
 p,
@@ -711,6 +709,8 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    color: #000000;
+    font-weight: 700;
 }
 
 h3 {
@@ -731,7 +731,8 @@ h1 {
 }
 
 h4 {
-    color: #333333!important;
+    color: #000000;
+    font-weight: 700;
 }
 
 .icons {
@@ -1079,6 +1080,6 @@ ul{
 }
 .class-white{
 
-    
+
 }
 
