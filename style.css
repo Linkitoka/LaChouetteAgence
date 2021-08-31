@@ -643,7 +643,6 @@ h1,
 h3,
 h5,
 h6,
-p,
 label,
 .btn,
 a {
@@ -675,8 +674,10 @@ a {
 }
 
 p {
+    font-family: "helvetica";
+    font-weight: 400;
     font-size: 15px;
-    color: #FFF;
+    color: #ffffff;
 }
 
 .tight-width-whitespace {
