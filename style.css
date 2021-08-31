@@ -678,7 +678,7 @@ p {
     font-family: "helvetica";
     font-weight: 400;
     font-size: 15px;
-    color: #ffffff;
+    color: #000000;
 }
 
 .tight-width-whitespace {
@@ -1056,12 +1056,9 @@ h4 {
 
 .col-sm-12{
     text-align: center;
+
 }
-@media (max-width: 767px) {
-    .col-sm-12 p{
-        color: #ffffff;
-    }
-}
+
 .italic{
     font-size: 15px;
     font-style: italic;
@@ -1086,10 +1083,6 @@ ul{
     display: grid;
     justify-content: center;
     gap: 10px;
-}
-.class-white{
-
-
 }
 
 @media (max-width: 767px) {
