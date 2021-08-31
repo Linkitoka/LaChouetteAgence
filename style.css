@@ -906,10 +906,12 @@ h4 {
     h4,
     h5,
     h6,
-    p,
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
+    }
+    p {
+        color: #757575;
     }
     .b-parallax {
         background-attachment: scroll;
