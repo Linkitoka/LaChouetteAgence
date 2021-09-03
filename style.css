@@ -1092,4 +1092,6 @@ ul{
     h1 {
         color: #ffffff;
     }
+    .bg-banniere {
+        background-image: url("img/la-chouette-agence-banniere2.jpg");
 }
