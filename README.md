@@ -10,7 +10,6 @@ Quatrième projet de la formation développeur web d'Openclassrooms, a pour obje
   * Relever les parties qui ne sont pas à jour en termes d’accessibilité.
   * Ajouter une bonne pratique à mettre en place pour améliorer le site.
   * Justifier les choix en citant les sources.
-  * Ajouter une bonne pratique à mettre en place afin d'améliorer le site.
 
 * Optimisation du site en appliquant les relevés ci-dessus.
 * Fournir le code source.
