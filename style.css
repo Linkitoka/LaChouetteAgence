@@ -1087,6 +1087,9 @@ ul{
 h5 {
     font-size: 25px;
 }
+h1 {
+    color: #ffffff;
+}
 @media (max-width: 767px) {
     .col-sm-12 p{
         color: #000000;
